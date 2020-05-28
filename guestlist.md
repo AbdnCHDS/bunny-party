@@ -2,3 +2,4 @@
 
 * Easter Bunny
 * Bugs Bunny
+* Thumper
